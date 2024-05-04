@@ -1,15 +1,15 @@
-# RemoteControl_RTOS
+RemoteControl_RTOS
 基于FreeRTOS和STM32F103RCT6的无线遥控手柄
 
-##硬件部分
+硬件部分
 硬件环境：嘉立创EDA
 硬件版本：Spherical_Robot_RC_V2.0
 
-##软件部分
+软件部分
 软件环境：Keil v5
 软件版本：RemoteControl_Released
 
-##软件迭代记录：
+软件迭代记录：
 /************************************************************************************************************************/ 
 //                                @Author  : Daemon.Chen                                                                //
 //                                @Project : XJTU Graduate Embedded Coursework 2024                                     //
